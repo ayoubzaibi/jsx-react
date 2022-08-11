@@ -1,0 +1,11 @@
+p{
+    display:flex ;
+    border: 1px solid black;
+    color: brown;
+    justify-content: center;
+}
+h1{
+    color: tomato;
+    border: 1px solid;
+    border-radius: 12px;
+}
